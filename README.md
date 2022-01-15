@@ -1,9 +1,14 @@
-### Hi there 👋
-
 <!--
-**nutc4k3/nutc4k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutc4k3&theme=chartreuse-dark&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=nutc4k3&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple&include_all_commits=true)
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://gideonwolfe.com">
+  <img src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="300", height="200" title="Credit to dianapietrzyk for most of the gifs",/> <br>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=GideonWolfe&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true", width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonWolfe&layout=compact&theme=tokyonight&hide_border=true", width="325"/> <br>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
